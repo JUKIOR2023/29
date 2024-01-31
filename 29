@@ -1,0 +1,813 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | Animal Planet HD SUR" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | Animal Planet HD SUR
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/229242
+#EXTINF:-1 tvg-id="~ Discovery Science" tvg-name="CUL | Discovery Science FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" group-title="CULTURA",CUL | Discovery Science FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/36466
+#EXTINF:-1 tvg-id="" tvg-name="CUL | Discovery TLC FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | Discovery TLC FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/242009
+#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="CUL | Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CUL | Discovery Turbo HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/54283
+#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | History Channel HD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="CULTURA",CUL | History Channel HD SUR
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/242013
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="CUL | Nat Geo SUR" tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CUL | Nat Geo SUR
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/242015
+#EXTINF:-1 tvg-id="" tvg-name="CUL | Discovery TLC  " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | Discovery TLC  
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/268886
+#EXTINF:-1 tvg-id="" tvg-name="EN | SONY Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY Novelas
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276161
+#EXTINF:-1 tvg-id="" tvg-name="EN | SONY Comedias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY Comedias
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276162
+#EXTINF:-1 tvg-id="" tvg-name="CUL | Love Nature" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURA",CUL | Love Nature
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276310
+#EXTINF:-1 tvg-id="" tvg-name="EN | SONY Competencias" tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12123.png?itok=OLBAVyoE" group-title="ENTRETENIMIENTO",EN | SONY Competencias
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/218342
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas.jpg" group-title="ENTRETENIMIENTO",SONY NOVELAS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/218340
+#EXTINF:-1 tvg-id="" tvg-name="VIX VILLANOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" group-title="ZONA VIX",VIX VILLANOS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276309
+#EXTINF:-1 tvg-id="asn.mx" tvg-name="DEP | Adrenalina Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",DEP | Adrenalina Sports
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/71832
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="DEP | Afizzionados HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",DEP | Afizzionados HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/54984
+#EXTINF:-1 tvg-id="" tvg-name="DEP  | Band Sports BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="DEPORTES",DEP  | Band Sports BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/48534
+#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="DEP | Bein Sports Ñ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",DEP | Bein Sports Ñ 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/36401
+#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="DEP | Bein Sports Ñ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/228360
+#EXTINF:-1 tvg-id="Dep|| CDO BASICO SD" tvg-name="DEP | CDO Básico SD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" group-title="DEPORTES",DEP | CDO Básico SD 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/12826
+#EXTINF:-1 tvg-id="claro.sports.co" tvg-name="DEP | Claro Sports HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",DEP | Claro Sports HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/164262
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DirecTV Sports 1 ARG HD ►℗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/158511
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DirecTV Sports FHD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/158506
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DirecTV Sports 2 HD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/257326
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DirecTV Sports 2 SD ⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/158513
+#EXTINF:-1 tvg-id="espn.extra.cr" tvg-name="DEP | ESPN Extra  MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN Extra  MX 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/21229
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1  PE  " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1  PE  
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/220727
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1  SD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/219173
+#EXTINF:-1 tvg-id="espn.pe" tvg-name="DEP | ESPN 1 PE HD ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/219172
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="DEP | ESPN 1 HD " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 HD 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/219171
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/9380
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/185154
+#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="DEP | ESPN 2 AR " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 AR 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/185666
+#EXTINF:-1 tvg-id="espn.2.latin.central.america.mx" tvg-name="DEP | ESPN 2 MX HD " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 MX HD 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/36391
+#EXTINF:-1 tvg-id="espn.3.argentina.ar" tvg-name="DEP | ESPN 3  AR HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/21220
+#EXTINF:-1 tvg-id="espn.3.mexico.mx" tvg-name="DEP | ESPN 3  MX " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3  MX 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/9530
+#EXTINF:-1 tvg-id="espn.3.mexico.mx" tvg-name="DEP | ESPN 3 MX HD  ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186774
+#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/54094
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN Extra BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/168997
+#EXTINF:-1 tvg-id="fox.deportes.en.espanol.mx" tvg-name="DEP | FOX Deportes " tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="DEPORTES",DEP | FOX Deportes 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/36396
+#EXTINF:-1 tvg-id="fox.sports.2.ar" tvg-name="DEP | FOX Sports 2 ARG HD ►℗" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/19652
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Sports 2 HD BRA" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/48540
+#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="DEP | FOX Sports 2 MEX HD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/19495
+#EXTINF:-1 tvg-id="fox.sports.3.ar" tvg-name="DEP | FOX Sports 3 ARG HD ►℗" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/19496
+#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="DEP | FOX Sports 3 HD MEX " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 HD MEX 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/9538
+#EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | ESPN Premium HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/215252
+#EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="DEP | FOX Sports Premium op2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="DEPORTES",DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/21298
+#EXTINF:-1 tvg-id="gol.co" tvg-name="DEP | GOL TV LAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTES",DEP | GOL TV LAT
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/51263
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Premiere 1 HD BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/56720
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Premiere 3  BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | Premiere 3  BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/49111
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Premiere 5 HD BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | Premiere 5 HD BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/56716
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Premiere 6 BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | Premiere 6 BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/56717
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Premiere 7 BRA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | Premiere 7 BRA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/56718
+#EXTINF:-1 tvg-id="sky.sports.16.cr" tvg-name="DEP | SKY Sports 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/149063
+#EXTINF:-1 tvg-id="" tvg-name="DEP | SKY Sports 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES",DEP | SKY Sports 24 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/149064
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT Sports AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT Sports AR
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/211363
+#EXTINF:-1 tvg-id="tnt.sports.ar" tvg-name="DEP | TNT Sports ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT Sports ARG
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/36424
+#EXTINF:-1 tvg-id="tnt.sports.ar" tvg-name="DEP | TNT Sports 3 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT Sports 3 HD 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/19638
+#EXTINF:-1 tvg-id="tu.deportes.network.u.s.mx" tvg-name="DEP | TUDN HD USA  ►℗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/185148
+#EXTINF:-1 tvg-id="tu.deportes.network.mexico.cr" tvg-name="DEP | TUDN USA FHD" tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" group-title="TUDN",DEP | TUDN USA FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/242045
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="DEP | TUDN USA" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="TUDN",DEP | TUDN USA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/166029
+#EXTINF:-1 tvg-id="tyc.sports.co" tvg-name="DEP | TYC Sports Internacional HD" tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="DEPORTES",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/188939
+#EXTINF:-1 tvg-id="vtv.ar" tvg-name="DEP | VTV Plus URU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/768px-VTV%2BUruguay.svg.png" group-title="DEPORTES",DEP | VTV Plus URU HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186609
+#EXTINF:-1 tvg-id="" tvg-name="La Bamba (1987)*25sc*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="Drama",La Bamba (1987)*25sc*
+http://home-playtv.com:8080/movie/HERNANDEZ3/FWBXA/165260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="YAKUZA AND THE FAMILY*pcsl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXOx1RgVLC5nY7veyaqPi8C3vmW.jpg" group-title="ESTRENOS 2021",YAKUZA AND THE FAMILY*pcsl
+http://home-playtv.com:8080/movie/HERNANDEZ3/FWBXA/200530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE REQUIN (2022)*mover" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg" group-title="ESTRENOS 2022",THE REQUIN (2022)*mover
+http://home-playtv.com:8080/movie/HERNANDEZ3/FWBXA/241352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN Premium FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276163
+#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN mexico SD" tvg-logo="http://svtv.xyz:8000/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="TUDN",USA | TUDN mexico SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/218637
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="SUPER SPORTS",SuperSport Tennis
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/469491
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBA TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png" group-title="USA  ⭐️PREMIUM⭐️",USA | NBA TV
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/481702
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Sports 1 HD COL" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/518960
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 AR " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3 AR 
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/518963
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 MX" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 MX
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/518965
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2  PERU HD ►℗" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/518967
+#EXTINF:-1 tvg-id="" tvg-name="BR | ALL Sports" tvg-logo="http://tvstar.cc:8880/chimg/6404667479.png" group-title="BRASIL",BR | ALL Sports
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236472
+#EXTINF:-1 tvg-id="" tvg-name="BR | Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/99418ec1388757708a4e61693a8a9c3e.JPG" group-title="BRASIL",BR | Animal Planet HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236470
+#EXTINF:-1 tvg-id="" tvg-name="BR | AXN HD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" group-title="BRASIL",BR | AXN HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236473
+#EXTINF:-1 tvg-id="" tvg-name="BR | Band News HD" tvg-logo="http://www.vod-logo.net/photos/251242fc9e7cb80736081bfd73f580ab.png" group-title="BRASIL",BR | Band News HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236463
+#EXTINF:-1 tvg-id="" tvg-name="BR | Band SP HD" tvg-logo="http://www.vod-logo.net/photos/63db0edfc4d9f376503d2f10349254de.png" group-title="BRASIL",BR | Band SP HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236471
+#EXTINF:-1 tvg-id="" tvg-name="BR | Band Sports HD" tvg-logo="http://www.vod-logo.net/photos/aa6d0c1de0efa824e912901e48522e2d.png" group-title="BRASIL",BR | Band Sports HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236482
+#EXTINF:-1 tvg-id="" tvg-name="BR | Boomerang HD" tvg-logo="http://www.vod-logo.net/photos/5357397dbb36bf9ff844469e098c0f5d.jpg" group-title="BRASIL",BR | Boomerang HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236501
+#EXTINF:-1 tvg-id="" tvg-name="BR | Canal Brasil SD" tvg-logo="http://www.vod-logo.net/photos/7d6ac716d6e60cc83764ae4188f40955.png" group-title="BRASIL",BR | Canal Brasil SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236480
+#EXTINF:-1 tvg-id="" tvg-name="BR | Combate HD" tvg-logo="http://www.vod-logo.net/photos/2ab115291c98dcccd76e469cb8221f69.png" group-title="BRASIL",BR | Combate HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236507
+#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery Kids HD" tvg-logo="http://www.vod-logo.net/photos/c40c90b70cb4b37748d0405639401686.jpg" group-title="BRASIL",BR | Discovery Kids HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236465
+#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery Science HD" tvg-logo="http://www.vod-logo.net/photos/c5f6506ed966bf3ed685f10928546cd4.jpg" group-title="BRASIL",BR | Discovery Science HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236490
+#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery TLC HD" tvg-logo="http://www.vod-logo.net/photos/b9dc69ed783f5deebbf4881a0f8b329a.png" group-title="BRASIL",BR | Discovery TLC HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236484
+#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery World HD" tvg-logo="http://www.vod-logo.net/photos/db2513bd0f4eacef1590b3cf6e5deba0.jpg" group-title="BRASIL",BR | Discovery World HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236520
+#EXTINF:-1 tvg-id="" tvg-name="BR | Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/78b71901317e11997e75321e99ea8f0f.jpg" group-title="BRASIL",BR | Disney Junior HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236508
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN 2 HD" tvg-logo="http://www.vod-logo.net/photos/ad9cf2ecbe0b5f59b572dd201663f387.jpg" group-title="BRASIL",BR | ESPN 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236464
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN Brasil HD" tvg-logo="http://www.vod-logo.net/photos/40623663c189d87debd7429e2557bc14.png" group-title="BRASIL",BR | ESPN Brasil HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236456
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN EXtra HD" tvg-logo="http://www.vod-logo.net/photos/c1151548a71a96178cd054ffb55be9c2.png" group-title="BRASIL",BR | ESPN EXtra HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236466
+#EXTINF:-1 tvg-id="" tvg-name="BR | Fish TV HD" tvg-logo="http://www.vod-logo.net/photos/4ae4ed75c5658c528095d346d44f58ea.png" group-title="BRASIL",BR | Fish TV HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236539
+#EXTINF:-1 tvg-id="" tvg-name="BR | Food Network HD" tvg-logo="http://www.vod-logo.net/photos/1ec435d156426c2fc5d6bc8c1031d1b4.png" group-title="BRASIL",BR | Food Network HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236549
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX Life HD" tvg-logo="http://www.vod-logo.net/photos/0bcfb1ace5963df4874f1a5a86db307b.jpg" group-title="BRASIL",BR | FOX Life HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236499
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX Premium 2 HD" tvg-logo="http://www.vod-logo.net/photos/26d1bd1ca50805dec8f7a4093841aa8f.png" group-title="BRASIL",BR | FOX Premium 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236488
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX Sports 1" tvg-logo="http://tvstar.cc:8880/chimg/4060548207.png" group-title="BRASIL",BR | FOX Sports 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236455
+#EXTINF:-1 tvg-id="" tvg-name="BR | Futura HD" tvg-logo="http://www.vod-logo.net/photos/804ac7067bc21aca533af593692a0300.png" group-title="BRASIL",BR | Futura HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236515
+#EXTINF:-1 tvg-id="" tvg-name="BR | FX HD" tvg-logo="http://www.vod-logo.net/photos/b77b8a15095db74df8e61e0d73895ecb.jpg" group-title="BRASIL",BR | FX HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236493
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Brasilia SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo Brasilia SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236485
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo EPTV Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo EPTV Campinas HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236498
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo EPTV Sao Carlos SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo EPTV Sao Carlos SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236486
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo INTER TV Cabugi RN SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo INTER TV Cabugi RN SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236527
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Minas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo Minas HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236500
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo News HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo News HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236535
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo Nordeste HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236495
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Premium" tvg-logo="http://tvstar.cc:8880/chimg/3362376655.png" group-title="BRASIL",BR | Globo Premium
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236494
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RBS TV Pelotas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo RBS TV Pelotas HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236502
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RJ HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo RJ HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236474
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RPC Curitiba HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo RPC Curitiba HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236522
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RPC HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo RPC HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236566
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RPC TV SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo RPC TV SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236496
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo SP HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo SP HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236476
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Bahia SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Bahia SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236516
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Morena HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Morena HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236513
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Tem Sorocaba SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Tem Sorocaba SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236543
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Tribuna Santos SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Tribuna Santos SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236529
+#EXTINF:-1 tvg-id="" tvg-name="BR | GNT HD" tvg-logo="http://www.vod-logo.net/photos/0de01f176c3c2d05485a5820e38929b6.png" group-title="BRASIL",BR | GNT HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236509
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO 2 HD" tvg-logo="http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png" group-title="BRASIL",BR | HBO 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236475
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Family HD" tvg-logo="http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png" group-title="BRASIL",BR | HBO Family HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236489
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Plus*e HD" tvg-logo="http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png" group-title="BRASIL",BR | HBO Plus*e HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236487
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Pop HD" tvg-logo="http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png" group-title="BRASIL",BR | HBO Pop HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236504
+#EXTINF:-1 tvg-id="" tvg-name="BR | HGTV HD" tvg-logo="http://www.vod-logo.net/photos/e9ff8edf9184888a59147e305b85c693.jpg" group-title="BRASIL",BR | HGTV HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236523
+#EXTINF:-1 tvg-id="" tvg-name="BR | History Channel HD" tvg-logo="http://www.vod-logo.net/photos/37a940e94c8bdeff3bd830d83fb969d5.jpg" group-title="BRASIL",BR | History Channel HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236514
+#EXTINF:-1 tvg-id="" tvg-name="BR | MTV HD" tvg-logo="http://www.vod-logo.net/photos/2e84096e3232283a1d3b5c894635d8c0.jpg" group-title="BRASIL",BR | MTV HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236503
+#EXTINF:-1 tvg-id="" tvg-name="BR | MTV Live HD" tvg-logo="http://www.vod-logo.net/photos/19101803e2d96ebae622813479d8619a.JPG" group-title="BRASIL",BR | MTV Live HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236506
+#EXTINF:-1 tvg-id="" tvg-name="BR | Music BoX Brazil SD" tvg-logo="http://www.vod-logo.net/photos/3e9960a9e1f533dc0ec6e42754bfbe53.png" group-title="BRASIL",BR | Music BoX Brazil SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236544
+#EXTINF:-1 tvg-id="" tvg-name="BR | National Geographic Kids HD" tvg-logo="http://www.vod-logo.net/photos/e2032b3ac4cca05ced931801f031f98b.jpg" group-title="BRASIL",BR | National Geographic Kids HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236497
+#EXTINF:-1 tvg-id="" tvg-name="BR | Nick Jr HD" tvg-logo="http://www.vod-logo.net/photos/0c8d11f5c69d372a2fdf215d46607382.jpg" group-title="BRASIL",BR | Nick Jr HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236512
+#EXTINF:-1 tvg-id="" tvg-name="BR | Paramount Channel HD" tvg-logo="http://www.vod-logo.net/photos/64131aa7035614b42b17d96e4a4f6ef4.jpg" group-title="BRASIL",BR | Paramount Channel HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236548
+#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere 2 HD" tvg-logo="http://www.vod-logo.net/photos/4c0868870678993607523943dfaa7135.png" group-title="BRASIL",BR | Premiere 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236469
+#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere Clubes HD" tvg-logo="http://www.vod-logo.net/photos/cfb462ba1adb245365243c6c3873561d.jpg" group-title="BRASIL",BR | Premiere Clubes HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236510
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL",BR | Record Campinas HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236552
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record MG SD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL",BR | Record MG SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236521
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL",BR | Record Nordeste HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236517
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record RJ SD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL",BR | Record RJ SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236545
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record SP HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL",BR | Record SP HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236481
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede Brasil" tvg-logo="http://tvstar.cc:8880/chimg/7551321734.png" group-title="BRASIL",BR | Rede Brasil
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236546
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede Familia SD" tvg-logo="http://www.vod-logo.net/photos/98ccad0e9f21002ace31be66895bbe1b.png" group-title="BRASIL",BR | Rede Familia SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236555
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede Gospel SD" tvg-logo="http://www.vod-logo.net/photos/c9e43cead562942cd6d1f9bfa543e78c.png" group-title="BRASIL",BR | Rede Gospel SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236532
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede TV HD" tvg-logo="http://www.vod-logo.net/photos/e2e3552fd5e46d0baa79ee6efdaa864e.png" group-title="BRASIL",BR | Rede TV HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236511
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede Vida HD" tvg-logo="http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png" group-title="BRASIL",BR | Rede Vida HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236528
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT TV Cidade Verde Piaui SD" tvg-logo="http://www.vod-logo.net/photos/4ddb5a7932232241bf80757563e3d391.png" group-title="BRASIL",BR | SBT TV Cidade Verde Piaui SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236477
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sony HD" tvg-logo="http://www.vod-logo.net/photos/d0851cea612d28d826de33db62bc7b9d.png" group-title="BRASIL",BR | Sony HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236479
+#EXTINF:-1 tvg-id="" tvg-name="BR | Space HD" tvg-logo="http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png" group-title="BRASIL",BR | Space HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236483
+#EXTINF:-1 tvg-id="" tvg-name="BR | SporTV 3" tvg-logo="http://tvstar.cc:8880/chimg/1146041757.png" group-title="BRASIL",BR | SporTV 3
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236454
+#EXTINF:-1 tvg-id="" tvg-name="BR | SporTV 2 HD" tvg-logo="http://www.vod-logo.net/photos/a55e09f0b5d8a66bd9520354f28cd892.png" group-title="BRASIL",BR | SporTV 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236468
+#EXTINF:-1 tvg-id="" tvg-name="BR | SporTV 3 HD" tvg-logo="http://www.vod-logo.net/photos/9b32ff822cf480295b0c35f887fdef14.png" group-title="BRASIL",BR | SporTV 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236459
+#EXTINF:-1 tvg-id="" tvg-name="BR | TCM SD" tvg-logo="http://www.vod-logo.net/photos/5917cd959434c3d9c54c2a70c4a4d8da.png" group-title="BRASIL",BR | TCM SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236536
+#EXTINF:-1 tvg-id="" tvg-name="BR | Telecine Action HD" tvg-logo="http://www.vod-logo.net/photos/e96a6d57d88a08931819eb943cf3b591.png" group-title="BRASIL",BR | Telecine Action HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236491
+#EXTINF:-1 tvg-id="" tvg-name="BR | Telecine Fun HD" tvg-logo="http://www.vod-logo.net/photos/b9af52d7508cd0827438a6dce158c628.png" group-title="BRASIL",BR | Telecine Fun HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236505
+#EXTINF:-1 tvg-id="" tvg-name="BR | Telecine Pipoca HD" tvg-logo="http://www.vod-logo.net/photos/9d0ca6f7d133e58874f4665addb9f013.png" group-title="BRASIL",BR | Telecine Pipoca HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236492
+#EXTINF:-1 tvg-id="" tvg-name="BR | Telecine Touch HD" tvg-logo="http://www.vod-logo.net/photos/37bf251b332e8254e194998a9ddac1c1.png" group-title="BRASIL",BR | Telecine Touch HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236526
+#EXTINF:-1 tvg-id="" tvg-name="BR | TNT HD" tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="BRASIL",BR | TNT HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236458
+#EXTINF:-1 tvg-id="" tvg-name="BR | TNT Séries HD" tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="BRASIL",BR | TNT Séries HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236462
+#EXTINF:-1 tvg-id="" tvg-name="BR | Tooncast HD" tvg-logo="http://www.vod-logo.net/photos/7eb5642cfb9e5ab1f8280a254a1d8a2e.png" group-title="BRASIL",BR | Tooncast HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236542
+#EXTINF:-1 tvg-id="" tvg-name="BR | TV Diario Do Sertao" tvg-logo="http://tvstar.cc:8880/chimg/3439471167.png" group-title="BRASIL",BR | TV Diario Do Sertao
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236553
+#EXTINF:-1 tvg-id="" tvg-name="BR | TV Gazeta SD" tvg-logo="http://www.vod-logo.net/photos/de02a544e1406928608964558e5006ad.png" group-title="BRASIL",BR | TV Gazeta SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236537
+#EXTINF:-1 tvg-id="" tvg-name="BR | Universal Channel HD" tvg-logo="http://www.vod-logo.net/photos/a1e1a4fa3d12c6e582f6e0d6286397fc.jpg" group-title="BRASIL",BR | Universal Channel HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236540
+#EXTINF:-1 tvg-id="" tvg-name="BR | Viva HD" tvg-logo="http://www.vod-logo.net/photos/1e290370a477858119798c8b6293ccfa.png" group-title="BRASIL",BR | Viva HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236531
+#EXTINF:-1 tvg-id="" tvg-name="BR | Woohoo HD" tvg-logo="http://www.vod-logo.net/photos/979c75c759c6951fd52ac44877498c88.png" group-title="BRASIL",BR | Woohoo HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236533
+#EXTINF:-1 tvg-id="" tvg-name="BR | Zoomoo HD" tvg-logo="http://www.vod-logo.net/photos/387b06de40950940618d88d43e809314.png" group-title="BRASIL",BR | Zoomoo HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236534
+#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery World SD" tvg-logo="http://tvstar.cc:8880/chimg/1030312508.png" group-title="BRASIL",BR | Discovery World SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236551
+#EXTINF:-1 tvg-id="" tvg-name="BR | Disney XD HD" tvg-logo="http://tvstar.cc:8880/chimg/4662969329.png" group-title="BRASIL",BR | Disney XD HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236559
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Nordeste" tvg-logo="http://tvstar.cc:8880/chimg/5077514416.png" group-title="BRASIL",BR | Globo Nordeste
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236562
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo RBS Porto Alegre" tvg-logo="http://tvstar.cc:8880/chimg/6917378354.png" group-title="BRASIL",BR | Globo RBS Porto Alegre
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236557
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo SP FHD" tvg-logo="http://tvstar.cc:8880/chimg/9832569534.png" group-title="BRASIL",BR | Globo SP FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236556
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Morena FHD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Morena FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236570
+#EXTINF:-1 tvg-id="" tvg-name="BR | Globo TV Tem Sorocaba HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL",BR | Globo TV Tem Sorocaba HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236525
+#EXTINF:-1 tvg-id="" tvg-name="BR | Multishow HD" tvg-logo="http://tvstar.cc:8880/chimg/EHheYAMW.png" group-title="BRASIL",BR | Multishow HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236567
+#EXTINF:-1 tvg-id="" tvg-name="BR | NatGeo Wild SD" tvg-logo="http://tvstar.cc:8880/chimg/8219614841.png" group-title="BRASIL",BR | NatGeo Wild SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236561
+#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere 1 HD" tvg-logo="http://tvstar.cc:8880/chimg/4350750065.png" group-title="BRASIL",BR | Premiere 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236524
+#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere 3 HD" tvg-logo="http://tvstar.live:8880/chimg/2257102255.png" group-title="BRASIL",BR | Premiere 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236568
+#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere 4 HD" tvg-logo="http://tvstar.live:8880/chimg/2421965133.png" group-title="BRASIL",BR | Premiere 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236569
+#EXTINF:-1 tvg-id="" tvg-name="BR | Record RJ HD" tvg-logo="http://tvstar.cc:8880/chimg/5229916706.png" group-title="BRASIL",BR | Record RJ HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236518
+#EXTINF:-1 tvg-id="" tvg-name="BR | Rede Vida HD" tvg-logo="http://tvstar.cc:8880/chimg/9077827082.png" group-title="BRASIL",BR | Rede Vida HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236547
+#EXTINF:-1 tvg-id="" tvg-name="BR | SporTV 1 HD" tvg-logo="http://tvstar.cc:8880/chimg/8929015938.png" group-title="BRASIL",BR | SporTV 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236460
+#EXTINF:-1 tvg-id="" tvg-name="BR | SporTV 2 FHD" tvg-logo="http://tvstar.cc:8880/chimg/6761672070.png" group-title="BRASIL",BR | SporTV 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236461
+#EXTINF:-1 tvg-id="" tvg-name="BR | Telecine Fun SD" tvg-logo="http://tvstar.cc:8880/chimg/2444597720.png" group-title="BRASIL",BR | Telecine Fun SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236560
+#EXTINF:-1 tvg-id="" tvg-name="BR | TNT Series FHD" tvg-logo="http://tvstar.cc:8880/chimg/9529749885.png" group-title="BRASIL",BR | TNT Series FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236457
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA UNIVISIÓN  - UNIMAS - TELEMUNDO ⭐️",TELEMUNDO HOUSTON
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/435161
+#EXTINF:-1 tvg-id="" tvg-name="US: NICK JR WEST" tvg-logo="https://static.epg.best/ee/NickJr.ee.png" group-title="USA KIDS",US: NICK JR WEST
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276197
+#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS" tvg-logo="https://static.epg.best/de/Nicktoons.de.png" group-title="USA KIDS",US: NICKTOONS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276198
+#EXTINF:-1 tvg-id="" tvg-name="US: BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="USA KIDS",US: BABY FIRST
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276200
+#EXTINF:-1 tvg-id="" tvg-name="USA: Disney HD" tvg-logo="http://tvgolatino.com:8080/images/2f3e741233c4a289b40b397912042fd8.png" group-title="USA KIDS",USA: Disney HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276210
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nick Music" tvg-logo="http://tvgolatino.com:8080/images/733cb00a7d4db6734d3072c11a08b672.png" group-title="USA KIDS",USA: Nick Music
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/276212
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV HD" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/NBAtv.us.png" group-title="EVENTOS NBA",NBA TV HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/236200
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 501" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6550.1489224113.png" group-title="AUSTRALIAN SPORTS",FOX SPORTS 501
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/181214
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 502" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BdfIxQX74fQhAnWvnUhGOBAttYa2iauSbw&usqp=CAU" group-title="AUSTRALIAN SPORTS",FOX SPORTS 502
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/181215
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 503" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/340?cb=20170407121736" group-title="AUSTRALIAN SPORTS",FOX SPORTS 503
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/181216
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 507" tvg-logo="https://live.staticflickr.com/65535/49463466142_b37ff7b752_w.jpg" group-title="AUSTRALIAN SPORTS",FOX SPORTS 507
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/181218
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="" group-title="AUSTRALIAN SPORTS",Fox Sports 506
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209693
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="" group-title="AUSTRALIAN SPORTS",Fox Sports 505
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209694
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="https://apphome.digital/logos/fox504.png" group-title="AUSTRALIAN SPORTS",Fox Sports 504
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209695
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="AUSTRALIAN SPORTS",ESPN 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209699
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="AUSTRALIAN SPORTS",ESPN 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209700
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS" tvg-logo="" group-title="AUSTRALIAN SPORTS",FOX SPORTS NEWS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/209703
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | M. DAZN La Liga 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA",DEP ES | M. DAZN La Liga 1 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440259
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | M. DAZN La Liga 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA",DEP ES | M. DAZN La Liga 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440260
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN La Liga 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA",DEP ES | DAZN La Liga 1 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440261
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | M. DAZN La Liga 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="DEPORTES ESPAÑA",DEP ES | M. DAZN La Liga 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440262
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | M. DAZN La Liga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="DEPORTES ESPAÑA",DEP ES | M. DAZN La Liga 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440263
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (ESPN+)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (ESPN+)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440264
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (SKY Sports)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (SKY Sports)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440265
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (M+ La Liga)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (M+ La Liga)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440266
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (M+ La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (M+ La Liga 2)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440267
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440268
+#EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440269
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",CO | TeleAntioquia
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/440702
+#EXTINF:-1 tvg-id="" tvg-name="PE | Liga 1 MAX HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="PERÚ",PE | Liga 1 MAX HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/469158
+#EXTINF:-1 tvg-id="" tvg-name="PE | DirecTv 1 Perú" tvg-logo="data:image/png;base64,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" group-title="PERÚ",PE | DirecTv 1 Perú
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/469393
+#EXTINF:-1 tvg-id="" tvg-name="PE | Antares TV" tvg-logo="http://daleplay.club:8080/images/5e2423f2a9f7054240f80334cb9c6d95.png" group-title="PERÚ",PE | Antares TV
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/473842
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Washington-Nationals" tvg-logo="" group-title="EVENTOS MLB",MLB-Washington-Nationals
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477832
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Texas-Rangers" tvg-logo="" group-title="EVENTOS MLB",MLB-Texas-Rangers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477833
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Tampa-BayRays" tvg-logo="" group-title="EVENTOS MLB",MLB-Tampa-BayRays
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477834
+#EXTINF:-1 tvg-id="" tvg-name="MLB-St.Louis-Cardinals" tvg-logo="" group-title="EVENTOS MLB",MLB-St.Louis-Cardinals
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477835
+#EXTINF:-1 tvg-id="" tvg-name="MLB-San-Francisco-Giants" tvg-logo="" group-title="EVENTOS MLB",MLB-San-Francisco-Giants
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477836
+#EXTINF:-1 tvg-id="" tvg-name="MLB-San-Diego-Padres" tvg-logo="" group-title="EVENTOS MLB",MLB-San-Diego-Padres
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477837
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Pittsburgh-Pirates" tvg-logo="" group-title="EVENTOS MLB",MLB-Pittsburgh-Pirates
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477838
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Philadelphia-Phillies" tvg-logo="" group-title="EVENTOS MLB",MLB-Philadelphia-Phillies
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477839
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Oakland-Athletics" tvg-logo="" group-title="EVENTOS MLB",MLB-Oakland-Athletics
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477840
+#EXTINF:-1 tvg-id="" tvg-name="MLB-New-York-Mets" tvg-logo="" group-title="EVENTOS MLB",MLB-New-York-Mets
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477842
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Minnesota-Twins" tvg-logo="" group-title="EVENTOS MLB",MLB-Minnesota-Twins
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477843
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Milwaukee-Brewers" tvg-logo="" group-title="EVENTOS MLB",MLB-Milwaukee-Brewers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477844
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Miami-Marlins" tvg-logo="" group-title="EVENTOS MLB",MLB-Miami-Marlins
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477845
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Los-Angeles-Dodgers" tvg-logo="" group-title="EVENTOS MLB",MLB-Los-Angeles-Dodgers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477846
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Los-Angeles-Angels" tvg-logo="" group-title="EVENTOS MLB",MLB-Los-Angeles-Angels
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477847
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Kansas-City-Royals" tvg-logo="" group-title="EVENTOS MLB",MLB-Kansas-City-Royals
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477848
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Houston-Astros" tvg-logo="" group-title="EVENTOS MLB",MLB-Houston-Astros
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477849
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Detroit-Tigers" tvg-logo="" group-title="EVENTOS MLB",MLB-Detroit-Tigers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477850
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Cleveland-Guardians" tvg-logo="" group-title="EVENTOS MLB",MLB-Cleveland-Guardians
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477851
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Cincinnati-Reds" tvg-logo="" group-title="EVENTOS MLB",MLB-Cincinnati-Reds
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477852
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Chicago-White-Sox" tvg-logo="" group-title="EVENTOS MLB",MLB-Chicago-White-Sox
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477853
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Chicago-Cubs" tvg-logo="" group-title="EVENTOS MLB",MLB-Chicago-Cubs
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477854
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Boston-Red-Sox" tvg-logo="" group-title="EVENTOS MLB",MLB-Boston-Red-Sox
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477855
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Baltimore-Orioles" tvg-logo="" group-title="EVENTOS MLB",MLB-Baltimore-Orioles
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/477856
+#EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1 MAX OP2" tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="PERÚ",PE | LIGA 1 MAX OP2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/478008
+#EXTINF:-1 tvg-id="" tvg-name="PE | Liga 1" tvg-logo="" group-title="PERÚ",PE | Liga 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/478009
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN Sports + HD op2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",CO | WIN Sports + HD op2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/479415
+#EXTINF:-1 tvg-id="" tvg-name="MLB-Atlanta-Braves" tvg-logo="" group-title="EVENTOS MLB",MLB-Atlanta-Braves
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/479628
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + VIP 3" tvg-logo="http://cpi4u.com:45862/images/de9174e014d0a6e2bab4ab252c979503.jpg" group-title="FUTBOL COLOMBIANO ",WIN SPORTS + VIP 3
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/485515
+#EXTINF:-1 tvg-id="" tvg-name="PE | Liga 1 MAX SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="PERÚ",PE | Liga 1 MAX SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/499709
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png" group-title="EVENTOS MLB",MLB Network HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/503059
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png" group-title="EVENTOS MLB",MLB Network
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/503060
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 1 HD" tvg-logo="https://img-cdn.curl.pk/chimg/7072964602.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506160
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 2 HD" tvg-logo="https://img-cdn.curl.pk/chimg/1164641905.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506161
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 3 HD" tvg-logo="https://img-cdn.curl.pk/chimg/4845185728.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506162
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 4 HD" tvg-logo="https://img-cdn.curl.pk/chimg/2982136533.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506163
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 5 HD" tvg-logo="https://img-cdn.curl.pk/chimg/6601179073.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 5 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506164
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Bundesliga 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/52c5eb429c6fc1bf1806efd707e578c6.png" group-title="ALEMANIA SPORTS",DE: SKY Bundesliga 6 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506165
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 7 HD" tvg-logo="https://img-cdn.curl.pk/chimg/1463696368.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 7 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506166
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Bundesliga 8 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/93ecd0128bf1690a3246a794357ef774.png" group-title="ALEMANIA SPORTS",DE: SKY Bundesliga 8 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506167
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 9 HD" tvg-logo="https://img-cdn.curl.pk/chimg/2121791406.jpg" group-title="ALEMANIA SPORTS",DE: SKY Sport Bundesliga 9 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/506168
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 1" tvg-logo="" group-title="⭐ EVENTOS ⭐",EVENTO 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/511139
+#EXTINF:-1 tvg-id="" tvg-name="WIN - SPORTS  +  VIP 1" tvg-logo="http://th4.online:2095/images/5f6f9f7fb0ac90fc753b38df920420c3.png" group-title="FUTBOL COLOMBIANO ",WIN - SPORTS  +  VIP 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516921
+#EXTINF:-1 tvg-id="" tvg-name="WIN  SPORTS + VIP 2" tvg-logo="http://th4.online:2095/images/c23e7f05e96c5da95eb82dd0fa5439e4.png" group-title="FUTBOL COLOMBIANO ",WIN  SPORTS + VIP 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516922
+#EXTINF:-1 tvg-id="" tvg-name="WIN - SPORTS + SD ec" tvg-logo="http://th4.online:2095/images/8af098fdfe7716bf21cd5b953b554a96.png" group-title="FUTBOL COLOMBIANO ",WIN - SPORTS + SD ec
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516923
+#EXTINF:-1 tvg-id="" tvg-name="WINS SPORTS +  FULL HD ec" tvg-logo="http://th4.online:2095/images/0e98c5b16a90f651d7e3c4b03537e13e.png" group-title="FUTBOL COLOMBIANO ",WINS SPORTS +  FULL HD ec
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516924
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD (CO) Encoder" tvg-logo="" group-title="FUTBOL COLOMBIANO ",Win Sports + HD (CO) Encoder
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516929
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+" tvg-logo="" group-title="FUTBOL COLOMBIANO ",Win Sports+
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516931
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + Colombia" tvg-logo="" group-title="FUTBOL COLOMBIANO ",Win Sports + Colombia
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516932
+#EXTINF:-1 tvg-id="" tvg-name="CO| WIN Sports +" tvg-logo="https://i.imgur.com/NSj99bp.png" group-title="FUTBOL COLOMBIANO ",CO| WIN Sports +
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516933
+#EXTINF:-1 tvg-id="" tvg-name="CO| WIN Sports + FHD" tvg-logo="https://i.imgur.com/NSj99bp.png" group-title="FUTBOL COLOMBIANO ",CO| WIN Sports + FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516934
+#EXTINF:-1 tvg-id="" tvg-name="CO| WIN Sports + HD" tvg-logo="https://i.imgur.com/NSj99bp.png" group-title="FUTBOL COLOMBIANO ",CO| WIN Sports + HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/516935
+#EXTINF:-1 tvg-id="" tvg-name="COPA AFRICANA Y COPA ASIA" tvg-logo="https://i.imgur.com/vFNv2eN.png" group-title="EVENTOS FUTBOL",COPA AFRICANA Y COPA ASIA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/529466
+#EXTINF:-1 tvg-id="" tvg-name="COPA AFRICANA Y COPA ASIA" tvg-logo="https://i.imgur.com/H5wXH2t.png" group-title="EVENTOS FUTBOL",COPA AFRICANA Y COPA ASIA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/529467
+#EXTINF:-1 tvg-id="" tvg-name="COPA AFRICANA Y COPA ASIA" tvg-logo="https://i.imgur.com/HdksQGa.png" group-title="EVENTOS FUTBOL",COPA AFRICANA Y COPA ASIA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/529468
+#EXTINF:-1 tvg-id="" tvg-name="COL | SOLO EVENTOS DEPORTIVOS" tvg-logo="http://195.66.210.66:80/images/lO4I6ENDRiY1iG64O8qqg2mP76wibvQQ0Z7T_vLOw0lc5syM-8v06nPE5JfWi9v0w_GbMg6A0PbWgbx6sUwxu3LTiOWnHBuFPsg2oGwnn7PosW47IvuoRzdbo8htzBbO06oZ6mCiAyI4LUtOpXKJjM02y7826Z3xBWBE8jEU1j_kDxNl_7hEL6u5eya9_3LD.png" group-title="⭐ EVENTOS ⭐",COL | SOLO EVENTOS DEPORTIVOS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530300
+#EXTINF:-1 tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0yqwAxUOm--3-1g6i_oSQcxVEL2vBq6GZBmcSEDMf2GecWW7id7_HguuXVXmOaiSwMa5fCYuJJgHxJMZBEqUafgrgRBCCkQwFjJVNJsoUaJN-u7cTE1GWtankeAJvt4TQ9ipIIXhFoW70fpmu-3esWI.png" group-title="⭐ EVENTOS ⭐",EC | EL CANAL DEL FUTBOL
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530301
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos 1" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcAkAUP3Rip95NlL3KcGQJ-A6Uy-ZEGEQcPBUj99fnvtTVaEkgaRf0dpO_GkUPfxc0wKQVw5EfA_ch1HQ4Nd0k8U.png" group-title="⭐ EVENTOS ⭐",La Casa de los Famosos 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530302
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos 2" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcAkAUP3Rip95NlL3KcGQJ-A6Uy-ZEGEQcPBUj99fnvtTVaEkgaRf0dpO_GkUPfxc0wKQVw5EfA_ch1HQ4Nd0k8U.png" group-title="⭐ EVENTOS ⭐",La Casa de los Famosos 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530303
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos 3" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcAkAUP3Rip95NlL3KcGQJ-A6Uy-ZEGEQcPBUj99fnvtTVaEkgaRf0dpO_GkUPfxc0wKQVw5EfA_ch1HQ4Nd0k8U.png" group-title="⭐ EVENTOS ⭐",La Casa de los Famosos 3
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530304
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos 4" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcAkAUP3Rip95NlL3KcGQJ-A6Uy-ZEGEQcPBUj99fnvtTVaEkgaRf0dpO_GkUPfxc0wKQVw5EfA_ch1HQ4Nd0k8U.png" group-title="⭐ EVENTOS ⭐",La Casa de los Famosos 4
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530305
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos 5" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcAkAUP3Rip95NlL3KcGQJ-A6Uy-ZEGEQcPBUj99fnvtTVaEkgaRf0dpO_GkUPfxc0wKQVw5EfA_ch1HQ4Nd0k8U.png" group-title="⭐ EVENTOS ⭐",La Casa de los Famosos 5
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530306
+#EXTINF:-1 tvg-id="" tvg-name="GH_Cámara 3" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBserbW0VCPfZikvtQmHqYeXY.png" group-title="⭐ EVENTOS ⭐",GH_Cámara 3
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530307
+#EXTINF:-1 tvg-id="" tvg-name="GH_Cámara 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBserbW0VCPfZikvtQmHqYeXY.png" group-title="⭐ EVENTOS ⭐",GH_Cámara 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530308
+#EXTINF:-1 tvg-id="" tvg-name="GH_Cámara 1" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBserbW0VCPfZikvtQmHqYeXY.png" group-title="⭐ EVENTOS ⭐",GH_Cámara 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530309
+#EXTINF:-1 tvg-id="" tvg-name="GH Argentina 24Hrs" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBserbW0VCPfZikvtQmHqYeXY.png" group-title="⭐ EVENTOS ⭐",GH Argentina 24Hrs
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530310
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 05:30 PM | OTTAWA SENATORS VS DETROIT RED WINGS" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBMCQtPVkHgPGTZ44Nkca3OWOUg0NkZDcCDFilT2hYWApff-xy96QMYTJXhRq3R1Lg.png" group-title="⭐ EVENTOS ⭐",NHL 01 | 05:30 PM | OTTAWA SENATORS VS DETROIT RED WINGS
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530311
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Jan-31 6:00PM | Chicago Bulls at Charlotte Hornets" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 01 | Jan-31 6:00PM | Chicago Bulls at Charlotte Hornets
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530312
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Jan-31 6:00PM | Detroit Pistons at Cleveland Cavaliers" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 02 | Jan-31 6:00PM | Detroit Pistons at Cleveland Cavaliers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530313
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Jan-31 6:00PM | LA Clippers at Washington Wizards" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 03 | Jan-31 6:00PM | LA Clippers at Washington Wizards
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530314
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Jan-31 7:30PM | Phoenix Suns at Brooklyn Nets" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 04 | Jan-31 7:30PM | Phoenix Suns at Brooklyn Nets
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530315
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05 | Jan-31 6:30PM | Sacramento Kings at Miami Heat" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 05 | Jan-31 6:30PM | Sacramento Kings at Miami Heat
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530316
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 | Jan-31 7:00PM | New Orleans Pelicans at Houston Rockets" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 06 | Jan-31 7:00PM | New Orleans Pelicans at Houston Rockets
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530317
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07 | Jan-31 7:00PM | Dallas Mavericks at Minnesota Timberwolves" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 07 | Jan-31 7:00PM | Dallas Mavericks at Minnesota Timberwolves
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530318
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | Jan-31 7:00PM | Orlando Magic at San Antonio Spurs" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 08 | Jan-31 7:00PM | Orlando Magic at San Antonio Spurs
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530319
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09 | Jan-31 7:00PM | Denver Nuggets at Oklahoma City Thunder" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 09 | Jan-31 7:00PM | Denver Nuggets at Oklahoma City Thunder
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530320
+#EXTINF:-1 tvg-id="" tvg-name="NBA 10 |Jan-31 9:00PM | Milwaukee Bucks at Portland Trail Blazers" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 10 |Jan-31 9:00PM | Milwaukee Bucks at Portland Trail Blazers
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530321
+#EXTINF:-1 tvg-id="" tvg-name="11:55 AM | EN ESPAñOL - FC BARCELONA VS OSASUNA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",11:55 AM | EN ESPAñOL - FC BARCELONA VS OSASUNA (LALIGA)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530322
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL -  HERTHA BSC VS FC KAISERSLAUTERN (QUARTERFINALS) (GERMAN CUP)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcPBWkCrYi2Qd22zCSQRy0t54DgfypTbpOxDfG_ySd-TWFO9k7wD-N7-C6zlmdbp-SsyRCMWQPVUTM531uGHd_g8.png" group-title="EVENTOS FUTBOL",01:30 PM | EN ESPAñOL -  HERTHA BSC VS FC KAISERSLAUTERN (QUARTERFINALS) (GERMAN CUP)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530323
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ATLéTICO DE MADRID VS RAYO VALLECANO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",01:30 PM | EN ESPAñOL - ATLéTICO DE MADRID VS RAYO VALLECANO (LALIGA)
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530324
+#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | STANDARD LIEGE VS ROYAL ANTWERP" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcE_GK-g8fTXzZHtE3AFFM6IyT_QEtlfJym-99cz-_ymgWsgJGwSMf2VQkAiVipMPyQ.png" group-title="EVENTOS FUTBOL",01:55 PM | STANDARD LIEGE VS ROYAL ANTWERP
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530325
+#EXTINF:-1 tvg-id="" tvg-name="Copa de Naciones de Asia | 05:25 AM CST | Bahrain vs. Japón" tvg-logo="" group-title="EVENTOS FUTBOL",Copa de Naciones de Asia | 05:25 AM CST | Bahrain vs. Japón
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530326
+#EXTINF:-1 tvg-id="" tvg-name="Copa de Naciones de Asia | 09:50 AM CST | Iran vs. Siria | 8vos de final" tvg-logo="" group-title="EVENTOS FUTBOL",Copa de Naciones de Asia | 09:50 AM CST | Iran vs. Siria | 8vos de final
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530327
+#EXTINF:-1 tvg-id="" tvg-name="Amistosos internacionales | 05:30 PM CST | Copa Viña del Mar 2024 | Everton vs. Independiente del Valle" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcNzkTZCtgZ4VHpYKHkN3R-EdVxRidcXLF9u7rABTAKb3qZxUR06ea9wHGmwQsnXTcNVHGd9kI0nXVP5Onph3qBw.png" group-title="EVENTOS FUTBOL",Amistosos internacionales | 05:30 PM CST | Copa Viña del Mar 2024 | Everton vs. Independiente del Valle
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530328
+#EXTINF:-1 tvg-id="" tvg-name="Liga Arg | 06:10 PM CST | Barracas Central vs. River Plate" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcEBgPWBHjHHCuMv3rfgUT2wN0B1kxEcfAvb2AQ6IbMCaSjQ8HG6PHbKjrUWx5njXUMQlghL4mv7hBtYSpCMJQaw.png" group-title="EVENTOS FUTBOL",Liga Arg | 06:10 PM CST | Barracas Central vs. River Plate
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530329
+#EXTINF:-1 tvg-id="" tvg-name="Exp MX | 09:00 PM CST | Correcaminos FC vs. Cancún FC" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcCf73UkPCpIHR7D5DMckCeWIwRZ8iIinpUbiRuzdtYoaT-7FS_alTaItNOiF0lgdWA.png" group-title="EVENTOS FUTBOL",Exp MX | 09:00 PM CST | Correcaminos FC vs. Cancún FC
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530330
+#EXTINF:-1 tvg-id="" tvg-name="EP League 6 | 13:30 Manchester City vs Burnley" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcC1YtxCy1lz98kSaHAn-o4JMowpbZBDy1lP79HLeMweYSvxSqk1RhOwf8M_QMVGogw.png" group-title="EVENTOS FUTBOL",EP League 6 | 13:30 Manchester City vs Burnley
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530331
+#EXTINF:-1 tvg-id="" tvg-name="EP League 7 | 13:30 Tottenham Hotspur vs Brentford" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcC1YtxCy1lz98kSaHAn-o4JMowpbZBDy1lP79HLeMweYSvxSqk1RhOwf8M_QMVGogw.png" group-title="EVENTOS FUTBOL",EP League 7 | 13:30 Tottenham Hotspur vs Brentford
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530332
+#EXTINF:-1 tvg-id="" tvg-name="EP League 8 | 14:15 Liverpool vs Chelsea" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcC1YtxCy1lz98kSaHAn-o4JMowpbZBDy1lP79HLeMweYSvxSqk1RhOwf8M_QMVGogw.png" group-title="EVENTOS FUTBOL",EP League 8 | 14:15 Liverpool vs Chelsea
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530333
+#EXTINF:-1 tvg-id="" tvg-name="Fútbol | 08:45 AM CST | Serie Pacífico | Liga de Quito vs. Cumbayá" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcFuIwiU-w4tGEztOAkWFcTj6PPz0ybCwr8H0S1diuZlCDr9a74TZFuEZiR-rcZcjWA.png" group-title="EVENTOS FUTBOL",Fútbol | 08:45 AM CST | Serie Pacífico | Liga de Quito vs. Cumbayá
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530334
+#EXTINF:-1 tvg-id="" tvg-name="Liga ARG | 2:00 PM | Argentinos Juniors vs Deportivo Riestra" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcEBgPWBHjHHCuMv3rfgUT2wN0B1kxEcfAvb2AQ6IbMCaSjQ8HG6PHbKjrUWx5njXUMQlghL4mv7hBtYSpCMJQaw.png" group-title="EVENTOS FUTBOL",Liga ARG | 2:00 PM | Argentinos Juniors vs Deportivo Riestra
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530335
+#EXTINF:-1 tvg-id="" tvg-name="Liga ARG | 2:00 PM | Defensa y Justicia vs Platense" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcEBgPWBHjHHCuMv3rfgUT2wN0B1kxEcfAvb2AQ6IbMCaSjQ8HG6PHbKjrUWx5njXUMQlghL4mv7hBtYSpCMJQaw.png" group-title="EVENTOS FUTBOL",Liga ARG | 2:00 PM | Defensa y Justicia vs Platense
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530336
+#EXTINF:-1 tvg-id="" tvg-name="Liga ARG | 4:15 PM | Belgrano vs San Lorenzo" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcEBgPWBHjHHCuMv3rfgUT2wN0B1kxEcfAvb2AQ6IbMCaSjQ8HG6PHbKjrUWx5njXUMQlghL4mv7hBtYSpCMJQaw.png" group-title="EVENTOS FUTBOL",Liga ARG | 4:15 PM | Belgrano vs San Lorenzo
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530337
+#EXTINF:-1 tvg-id="" tvg-name="Liga ARG | 5:00 PM | Racing Club vs Tigre" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcEBgPWBHjHHCuMv3rfgUT2wN0B1kxEcfAvb2AQ6IbMCaSjQ8HG6PHbKjrUWx5njXUMQlghL4mv7hBtYSpCMJQaw.png" group-title="EVENTOS FUTBOL",Liga ARG | 5:00 PM | Racing Club vs Tigre
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530338
+#EXTINF:-1 tvg-id="" tvg-name="LMX | 7:00 PM | Pachuca vs Atlas" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcCf73UkPCpIHR7D5DMckCeWIwRZ8iIinpUbiRuzdtYoaT-7FS_alTaItNOiF0lgdWA.png" group-title="EVENTOS FUTBOL",LMX | 7:00 PM | Pachuca vs Atlas
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530339
+#EXTINF:-1 tvg-id="" tvg-name="ASC MX | 5:05 PM | Atlante vs Alebrijes de Oaxaca" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcLen3Ta_ziwL-IG9Ydo5chvFzr-D_Tt7G1kZVZOODqFs0LorzqCL4aiIl0TegbjcOJNE-nClwRkWy1mj8no9Hj4.png" group-title="EVENTOS FUTBOL",ASC MX | 5:05 PM | Atlante vs Alebrijes de Oaxaca
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530340
+#EXTINF:-1 tvg-id="" tvg-name="ASC MX | 7:05 PM | Dorados vs Venados" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcLen3Ta_ziwL-IG9Ydo5chvFzr-D_Tt7G1kZVZOODqFs0LorzqCL4aiIl0TegbjcOJNE-nClwRkWy1mj8no9Hj4.png" group-title="EVENTOS FUTBOL",ASC MX | 7:05 PM | Dorados vs Venados
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/530341
+#EXTINF:-1 tvg-id="" tvg-name="AR Oman Sport" tvg-logo="" group-title="BEIN SPORTS ",AR Oman Sport
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/58324
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 1-HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS ",VIP BeIN Sports 1-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186761
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 3-HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS ",VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186762
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 2-HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS ",VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186763
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS ",VIP BeIN Sports 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186767
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports 5-HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS ",VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186769
+#EXTINF:-1 tvg-id="" tvg-name="VIP BeIN Sports Extra 1" tvg-logo="" group-title="BEIN SPORTS ",VIP BeIN Sports Extra 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/186772
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports News" tvg-logo="http://tvstar.live:8880/chimg/3428202045.png" group-title="BEIN SPORTS ",AR: BeIN Sports News
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214653
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 Premium FHD" tvg-logo="http://tvstar.live:8880/chimg/3172152015.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 1 Premium FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214654
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 Premium FHD" tvg-logo="http://tvstar.live:8880/chimg/2709565477.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 3 Premium FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214655
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="http://tvstar.live:8880/chimg/1097211873.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214656
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="http://tvstar.live:8880/chimg/6253829531.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214657
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="http://tvstar.live:8880/chimg/3666247154.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 3 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214658
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://tvstar.live:8880/chimg/9135172668.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214659
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 10 FHD" tvg-logo="http://tvstar.live:8880/chimg/6134048431.png" group-title="BEIN SPORTS ",AR: Bein Sports 10 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214660
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 FHD" tvg-logo="http://tvstar.live:8880/chimg/7962136186.png" group-title="BEIN SPORTS ",FR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214661
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 FHD" tvg-logo="http://tvstar.live:8880/chimg/4697254447.png" group-title="BEIN SPORTS ",FR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214662
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 8 FHD" tvg-logo="http://tvstar.live:8880/chimg/3020362807.png" group-title="BEIN SPORTS ",FR: BEIN SPORTS 8 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214663
+#EXTINF:-1 tvg-id="" tvg-name="EN: BEIN SPORTS 2 FHD" tvg-logo="http://tvstar.live:8880/chimg/4806127044.png" group-title="BEIN SPORTS ",EN: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214664
+#EXTINF:-1 tvg-id="" tvg-name="EN: BEIN SPORTS 5 FHD" tvg-logo="http://tvstar.live:8880/chimg/9272448199.png" group-title="BEIN SPORTS ",EN: BEIN SPORTS 5 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214665
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 2 HD" tvg-logo="http://tvstar.live:8880/chimg/4348757207.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS Premium 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214666
+#EXTINF:-1 tvg-id="" tvg-name="EN: Bein Sport 12 FHD" tvg-logo="http://tvstar.live:8880/chimg/beIN12.png" group-title="BEIN SPORTS ",EN: Bein Sport 12 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214667
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD" tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" group-title="BEIN SPORTS ",BEIN MAX 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214668
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 HD" tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" group-title="BEIN SPORTS ",BEIN MAX 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214669
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 3 HD" tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" group-title="BEIN SPORTS ",BEIN MAX 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214670
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 4 HD" tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" group-title="BEIN SPORTS ",BEIN MAX 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214671
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 6 FHD" tvg-logo="http://tvstar.live:8880/chimg/1170622522.png" group-title="BEIN SPORTS ",BeIN Sport Max 6 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214672
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 5 FHD" tvg-logo="http://tvstar.live:8880/chimg/4820855773.png" group-title="BEIN SPORTS ",BeIN Sport Max 5 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214673
+#EXTINF:-1 tvg-id="" tvg-name="BS: beIN SPORTS 5 4K" tvg-logo="http://tvstar.live:8880/chimg/7391339235.png" group-title="BEIN SPORTS ",BS: beIN SPORTS 5 4K
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214674
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 FHD" tvg-logo="http://tvstar.live:8880/chimg/5047359548.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 4 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214675
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="http://tvstar.live:8880/chimg/6306826828.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS 7 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214676
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 9 FHD" tvg-logo="http://tvstar.live:8880/chimg/3337947918.png" group-title="BEIN SPORTS ",FR: BEIN SPORTS 9 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214677
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 PREMIUM 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/8791855276.png" group-title="BEIN SPORTS ",beIN SPORTS 2 PREMIUM 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214679
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM 4K PURE" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png" group-title="BEIN SPORTS ",beIN SPORTS 3 PREMIUM 4K PURE
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214680
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/6365017888.png" group-title="BEIN SPORTS ",beIN Sports 2 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214681
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 4K Pure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_(black).svg/1280px-BeIN_Sports_logo_2017_(black).svg.png" group-title="BEIN SPORTS ",beIN Sports 3 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214682
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/7122597205.png" group-title="BEIN SPORTS ",beIN Sports 4 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214683
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/6803882573.png" group-title="BEIN SPORTS ",beIN Sports 5 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214684
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/7031372340.png" group-title="BEIN SPORTS ",beIN Sports 6 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214685
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 4K Pure" tvg-logo="http://tvstar.live:8880/chimg/7664636296.png" group-title="BEIN SPORTS ",beIN Sports 7 4K Pure
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214686
+#EXTINF:-1 tvg-id="" tvg-name="EN: Bein Sports 1 FHD" tvg-logo="http://tvstar.live:8880/chimg/5615828726.png" group-title="BEIN SPORTS ",EN: Bein Sports 1 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214687
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 FHD" tvg-logo="http://tvstar.live:8880/chimg/1427270676.png" group-title="BEIN SPORTS ",beIN SPORTS XTRA 1 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214688
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 FHD" tvg-logo="http://tvstar.live:8880/chimg/2632703842.png" group-title="BEIN SPORTS ",beIN SPORTS XTRA 2 FHD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214689
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 1 HD" tvg-logo="http://tvstar.live:8880/chimg/1716740571.png" group-title="BEIN SPORTS ",AR: beIN Sports Max 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214690
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2 HD" tvg-logo="http://tvstar.live:8880/chimg/1050825297.png" group-title="BEIN SPORTS ",AR: beIN Sports Max 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214691
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 3 HD" tvg-logo="http://tvstar.live:8880/chimg/8622954996.png" group-title="BEIN SPORTS ",AR: beIN Sports Max 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214692
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 4 HD" tvg-logo="http://tvstar.live:8880/chimg/4510324040.png" group-title="BEIN SPORTS ",AR: beIN Sports Max 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214693
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein sport max 5 HD" tvg-logo="http://tvstar.live:8880/chimg/4257188890.png" group-title="BEIN SPORTS ",AR: Bein sport max 5 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214694
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein sport max  6 HD" tvg-logo="http://tvstar.live:8880/chimg/2711786398.png" group-title="BEIN SPORTS ",AR: Bein sport max  6 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214695
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 1 HD" tvg-logo="http://tvstar.live:8880/chimg/8674518411.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214696
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 2-HD" tvg-logo="http://tvstar.live:8880/chimg/3666441796.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214697
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 3-HD" tvg-logo="http://tvstar.live:8880/chimg/7107017894.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214698
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 4-HD" tvg-logo="http://tvstar.live:8880/chimg/6105392900.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 4-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214699
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 5-HD" tvg-logo="http://tvstar.live:8880/chimg/4773794456.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214700
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 6-HD" tvg-logo="http://tvstar.live:8880/chimg/7792083203.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 6-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214701
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 9-HD" tvg-logo="http://tvstar.live:8880/chimg/1023667229.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 9-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214702
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BeIN Sports 10 HD" tvg-logo="http://tvstar.live:8880/chimg/1444043873.png" group-title="BEIN SPORTS ",AR: VIP BeIN Sports 10 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214703
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 11 HD" tvg-logo="http://vod-logo.net/photos/9ee59993fa7e40d21c77f4a0e8dc892c.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 11 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214704
+#EXTINF:-1 tvg-id="" tvg-name="BS: VIP BeIN Sports 12-HD" tvg-logo="http://tvstar.live:8880/chimg/2860223322.png" group-title="BEIN SPORTS ",BS: VIP BeIN Sports 12-HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214705
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 SD" tvg-logo="http://vod-logo.net/photos/1185e0c5128d177d61f500c85b873833.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 1 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214706
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 3 SD" tvg-logo="http://vod-logo.net/photos/880547bb3a613adfe767e3ee8a4ec852.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 3 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214707
+#EXTINF:-1 tvg-id="" tvg-name="BS:  Bein Sport 4 SD" tvg-logo="http://vod-logo.net/photos/bfe14e8d1c5134f87c7a24356b332c4e.JPG" group-title="BEIN SPORTS ",BS:  Bein Sport 4 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214708
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 5 SD" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 5 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214709
+#EXTINF:-1 tvg-id="" tvg-name="BS:  Bein Sport 7 SD" tvg-logo="http://vod-logo.net/photos/7d82e3797185376514ccd3c09fe9bb65.JPG" group-title="BEIN SPORTS ",BS:  Bein Sport 7 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214710
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 SD" tvg-logo="http://vod-logo.net/photos/b6ed679ef34be468824f03ab9bd5d3f9.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 8 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214711
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 9 SD" tvg-logo="http://tvstar.live:8880/chimg/4166144753.png" group-title="BEIN SPORTS ",AR: Bein Sports 9 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214712
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 10 SD" tvg-logo="http://tvstar.live:8880/chimg/3753537739.png" group-title="BEIN SPORTS ",AR: Bein Sports 10 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214713
+#EXTINF:-1 tvg-id="" tvg-name="BS:  Bein Sport News HD" tvg-logo="http://tvstar.live:8880/chimg/7460717906.png" group-title="BEIN SPORTS ",BS:  Bein Sport News HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214714
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 11 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_11_hd.png" group-title="BEIN SPORTS ",||AR.BEIN|| BEIN SPORTS 11 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214715
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FOX REWAYAT" tvg-logo="http://tvstar.live:8880/chimg/3351154236.png" group-title="BEIN SPORTS ",AR: BEIN FOX REWAYAT
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214716
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FATAFEAT HD" tvg-logo="http://tvstar.live:8880/chimg/3802515876.png" group-title="BEIN SPORTS ",AR: BEIN FATAFEAT HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214717
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN GULI" tvg-logo="http://tvstar.live:8880/chimg/1740901970.png" group-title="BEIN SPORTS ",AR: BEIN GULI
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214718
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN GOURMET" tvg-logo="http://tvstar.live:8880/chimg/6145770701.png" group-title="BEIN SPORTS ",AR: BEIN GOURMET
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214719
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS HD" tvg-logo="http://tvstar.live:8880/chimg/7982087236.png" group-title="BEIN SPORTS ",AR: BEIN SPORTS NEWS HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214720
+#EXTINF:-1 tvg-id="" tvg-name="BS:  Bein Sport 6 SD" tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" group-title="BEIN SPORTS ",BS:  Bein Sport 6 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214721
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 2 SD" tvg-logo="http://vod-logo.net/photos/b1dc86750c902aebba41f28fe16c49b6.JPG" group-title="BEIN SPORTS ",AR: Bein Sport 2 SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214722
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 7 HD" tvg-logo="http://tvstar.live:8880/chimg/7889141653.png" group-title="BEIN SPORTS ",AR: BeIN Sports 7 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214723
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="http://tvstar.live:8880/chimg/1192272536.png" group-title="BEIN SPORTS ",beIN SPORTS XTRA 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214724
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="http://tvstar.live:8880/chimg/9801191210.png" group-title="BEIN SPORTS ",beIN SPORTS XTRA 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214725
+#EXTINF:-1 tvg-id="" tvg-name="AT:  BeIN SPORTS 2" tvg-logo="http://tvstar.live:8880/chimg/8841086315.png" group-title="BEIN SPORTS ",AT:  BeIN SPORTS 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214726
+#EXTINF:-1 tvg-id="" tvg-name="AT:  beIN SPORTS 3" tvg-logo="http://tvstar.live:8880/chimg/9331782182.png" group-title="BEIN SPORTS ",AT:  beIN SPORTS 3
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214727
+#EXTINF:-1 tvg-id="" tvg-name="AT: beIN SPORTS 1" tvg-logo="http://tvstar.live:8880/chimg/2039309761.png" group-title="BEIN SPORTS ",AT: beIN SPORTS 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214728
+#EXTINF:-1 tvg-id="" tvg-name="CA: beIN Sports HD" tvg-logo="http://tvstar.live:8880/chimg/2693759036.png" group-title="BEIN SPORTS ",CA: beIN Sports HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214729
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 1" tvg-logo="http://tvstar.live:8880/chimg/7025470360.png" group-title="BEIN SPORTS ",UK: Bein Sports 1
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214730
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 01" tvg-logo="http://tvstar.live:8880/chimg/1824250125.png" group-title="BEIN SPORTS ",US: beIN Sports 01
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214731
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports 2" tvg-logo="http://tvstar.live:8880/chimg/4413679888.png" group-title="BEIN SPORTS ",US:  beIN Sports 2
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214732
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports 4 HD" tvg-logo="http://tvstar.live:8880/chimg/2445618325.png" group-title="BEIN SPORTS ",US:  beIN Sports 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214733
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports 5 HD" tvg-logo="http://tvstar.live:8880/chimg/6884308346.png" group-title="BEIN SPORTS ",US:  beIN Sports 5 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214734
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports 6 HD" tvg-logo="http://tvstar.live:8880/chimg/6698305925.png" group-title="BEIN SPORTS ",US:  beIN Sports 6 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214735
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports USA HD" tvg-logo="http://tvstar.live:8880/chimg/5927862928.png" group-title="BEIN SPORTS ",US:  beIN Sports USA HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214736
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214737
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports N" tvg-logo="http://tvstar.live:8880/chimg/8491028598.png" group-title="BEIN SPORTS ",US: beIN Sports N
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214738
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 07" tvg-logo="http://tvstar.live:8880/chimg/4308721800.png" group-title="BEIN SPORTS ",US: beIN Sports 07
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214739
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://tvstar.live:8880/chimg/7364477012.png" group-title="BEIN SPORTS ",TR: Bein Sports 1 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214740
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 4 HD" tvg-logo="http://tvstar.live:8880/chimg/1340306342.png" group-title="BEIN SPORTS ",TR: Bein Sports 4 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214741
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BEIN SPORTS 2 HD" tvg-logo="http://tvstar.live:8880/chimg/8044270735.png" group-title="BEIN SPORTS ",TR:  BEIN SPORTS 2 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214742
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BEIN SPORTS 3 HD" tvg-logo="http://tvstar.live:8880/chimg/6474034751.png" group-title="BEIN SPORTS ",TR:  BEIN SPORTS 3 HD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214743
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BEIN SPORTS Haber SD" tvg-logo="http://tvstar.live:8880/chimg/8424513456.png" group-title="BEIN SPORTS ",TR:  BEIN SPORTS Haber SD
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214744
+#EXTINF:-1 tvg-id="" tvg-name="LSP: VIP BeIN Sports USA" tvg-logo="http://tvstar.live:8880/chimg/4357439491.png" group-title="BEIN SPORTS ",LSP: VIP BeIN Sports USA
+http://home-playtv.com:8080/HERNANDEZ3/FWBXA/214746
